@@ -30,6 +30,7 @@ import (
 	_ "github.com/gocolly/colly"
 	_ "github.com/olekukonko/tablewriter"
 	_ "github.com/schollz/progressbar/v3"
+	_ "github.com/sirupsen/logrus"
 	_ "github.com/spf13/cobra"
 	_ "github.com/spf13/viper"
 )
