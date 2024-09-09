@@ -28,6 +28,7 @@ import (
 	_ "github.com/chromedp/chromedp"
 	_ "github.com/fatih/color"
 	_ "github.com/gizak/termui/v3"
+	_ "github.com/gizak/termui/v3/widgets"
 	_ "github.com/gocolly/colly"
 	_ "github.com/olekukonko/tablewriter"
 	_ "github.com/playwright-community/playwright-go"
