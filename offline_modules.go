@@ -27,6 +27,7 @@ import (
 	_ "github.com/charmbracelet/lipgloss"
 	_ "github.com/chromedp/chromedp"
 	_ "github.com/fatih/color"
+	_ "github.com/gizak/termui/v3"
 	_ "github.com/gocolly/colly"
 	_ "github.com/olekukonko/tablewriter"
 	_ "github.com/schollz/progressbar/v3"
