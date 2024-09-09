@@ -15,6 +15,7 @@ require (
 	github.com/gizak/termui/v3 v3.1.0
 	github.com/gocolly/colly v1.2.0
 	github.com/olekukonko/tablewriter v0.0.5
+	github.com/playwright-community/playwright-go v0.4700.0
 	github.com/schollz/progressbar/v3 v3.14.6
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.8.1
@@ -36,10 +37,13 @@ require (
 	github.com/charmbracelet/x/term v0.2.0 // indirect
 	github.com/chromedp/cdproto v0.0.0-20240810084448-b931b754e476 // indirect
 	github.com/chromedp/sysutil v1.0.0 // indirect
+	github.com/deckarep/golang-set/v2 v2.6.0 // indirect
 	github.com/dlclark/regexp2 v1.11.4 // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
 	github.com/erikgeiser/coninput v0.0.0-20211004153227-1c3628e74d0f // indirect
 	github.com/fsnotify/fsnotify v1.7.0 // indirect
+	github.com/go-jose/go-jose/v3 v3.0.3 // indirect
+	github.com/go-stack/stack v1.8.1 // indirect
 	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/gobwas/httphead v0.1.0 // indirect
 	github.com/gobwas/pool v0.2.1 // indirect
