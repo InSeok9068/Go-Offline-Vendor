@@ -36,3 +36,9 @@ go run github.com/playwright-community/playwright-go/cmd/playwright@latest insta
 go install github.com/playwright-community/playwright-go/cmd/playwright@latest
 playwright install --with-deps
 ```
+
+### sqlite
+
+```shell
+go install github.com/mattn/go-sqlite3
+```

@@ -30,6 +30,8 @@ import (
 	_ "github.com/gizak/termui/v3"
 	_ "github.com/gizak/termui/v3/widgets"
 	_ "github.com/gocolly/colly"
+	_ "github.com/godror/godror"
+	_ "github.com/mattn/go-sqlite3"
 	_ "github.com/olekukonko/tablewriter"
 	_ "github.com/playwright-community/playwright-go"
 	_ "github.com/schollz/progressbar/v3"
