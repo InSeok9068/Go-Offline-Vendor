@@ -19,7 +19,6 @@ require (
 	github.com/playwright-community/playwright-go v0.4700.0
 	github.com/schollz/progressbar/v3 v3.14.6
 	github.com/sijms/go-ora/v2 v2.8.20
-	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.8.1
 	github.com/spf13/viper v1.19.0
 	golang.org/x/tools v0.24.0
