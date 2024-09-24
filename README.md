@@ -40,7 +40,7 @@ playwright install --with-deps
 ### sqlite
 
 ```shell
-go install github.com/mattn/go-sqlite3@latest
+go install github.com/mattn/go-sqlite3
 ```
 
 ### sqlc
