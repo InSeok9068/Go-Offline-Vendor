@@ -18,8 +18,8 @@ require (
 	github.com/gocolly/colly v1.2.0
 	github.com/mattn/go-sqlite3 v1.14.23
 	github.com/olekukonko/tablewriter v0.0.5
-	github.com/playwright-community/playwright-go v0.4701.0
-	github.com/schollz/progressbar/v3 v3.15.0
+	github.com/playwright-community/playwright-go v0.4702.0
+	github.com/schollz/progressbar/v3 v3.16.0
 	github.com/sijms/go-ora/v2 v2.8.21
 	github.com/spf13/cobra v1.8.1
 	github.com/spf13/viper v1.19.0
