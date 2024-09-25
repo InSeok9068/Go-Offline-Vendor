@@ -48,3 +48,13 @@ go install github.com/mattn/go-sqlite3
 ```shell
 go install github.com/sqlc-dev/sqlc/cmd/sqlc@latest
 ```
+
+### ALL
+```shell
+go install github.com/spf13/cobra-cli@latest
+go install golang.org/x/tools/cmd/godoc@latest
+go install github.com/playwright-community/playwright-go/cmd/playwright@latest
+go install github.com/mattn/go-sqlite3
+go install github.com/sqlc-dev/sqlc/cmd/sqlc@latest
+playwright install --with-deps
+```
