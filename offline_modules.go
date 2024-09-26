@@ -34,13 +34,13 @@ import (
 	_ "github.com/labstack/echo-contrib/session"
 	_ "github.com/labstack/echo-jwt/v4"
 	_ "github.com/labstack/echo/v4"
-	_ "github.com/mattn/go-sqlite3"
 	_ "github.com/olekukonko/tablewriter"
 	_ "github.com/playwright-community/playwright-go"
 	_ "github.com/schollz/progressbar/v3"
 	_ "github.com/sijms/go-ora/v2"
 	_ "github.com/spf13/cobra"
 	_ "github.com/spf13/viper"
+	_ "modernc.org/sqlite"
 )
 
 func main() {
