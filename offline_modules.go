@@ -40,6 +40,10 @@ import (
 	_ "github.com/sijms/go-ora/v2"
 	_ "github.com/spf13/cobra"
 	_ "github.com/spf13/viper"
+	_ "github.com/stretchr/testify/assert"
+	_ "github.com/stretchr/testify/mock"
+	_ "github.com/stretchr/testify/require"
+	_ "github.com/stretchr/testify/suite"
 	_ "modernc.org/sqlite"
 )
 
