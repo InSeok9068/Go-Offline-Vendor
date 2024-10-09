@@ -53,6 +53,8 @@ go install github.com/sqlc-dev/sqlc/cmd/sqlc@latest
 playwright install --with-deps
 ```
 
+---
+
 ## Pocketbase
 
 ###
