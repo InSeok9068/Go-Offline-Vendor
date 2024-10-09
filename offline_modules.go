@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"log/slog"
+	log "log/slog"
 	"offline_modules/cmd"
 
 	_ "github.com/AlecAivazis/survey/v2"
@@ -49,6 +49,6 @@ import (
 
 func main() {
 	fmt.Println("문자열 출력")
-	slog.Info("로깅 출력")
+	log.Info("로깅 출력")
 	cmd.Playground()
 }
