@@ -101,5 +101,5 @@ _ "github.com/pocketbase/pocketbase/tools/subscriptions"
 _ "github.com/pocketbase/pocketbase/tools/template"
 _ "github.com/pocketbase/pocketbase/tools/tokenizer"
 _ "github.com/pocketbase/pocketbase/tools/types"
-_ "github.com/pocketbase/pocketbase/tools/ui"
+_ "github.com/pocketbase/pocketbase/ui"
 ```
