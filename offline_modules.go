@@ -29,6 +29,7 @@ import (
 	_ "github.com/gizak/termui/v3/widgets"
 	_ "github.com/go-rod/rod"
 	_ "github.com/gocolly/colly"
+	_ "github.com/jmoiron/sqlx"
 	_ "github.com/olekukonko/tablewriter"
 	_ "github.com/playwright-community/playwright-go"
 	_ "github.com/schollz/progressbar/v3"

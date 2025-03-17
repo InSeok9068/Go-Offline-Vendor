@@ -24,6 +24,7 @@ require (
 	github.com/gizak/termui/v3 v3.1.0
 	github.com/go-rod/rod v0.116.2
 	github.com/gocolly/colly v1.2.0
+	github.com/jmoiron/sqlx v1.4.0
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/playwright-community/playwright-go v0.5001.0
 	github.com/schollz/progressbar/v3 v3.18.0
