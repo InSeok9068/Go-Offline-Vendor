@@ -41,6 +41,7 @@ import (
 	_ "github.com/stretchr/testify/require"
 	_ "github.com/stretchr/testify/suite"
 	_ "github.com/xuri/excelize/v2"
+	_ "gopkg.in/gomail.v2"
 	_ "modernc.org/sqlite"
 )
 
