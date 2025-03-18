@@ -3,6 +3,31 @@
 ### download library (offline mode)
 
 ```shell
+go get github.com/AlecAivazis/survey/v2
+go get github.com/atotto/clipboard
+go get github.com/briandowns/spinner
+go get github.com/charmbracelet/bubbles
+go get github.com/charmbracelet/bubbletea
+go get github.com/charmbracelet/glamour
+go get github.com/charmbracelet/lipgloss
+go get github.com/fatih/color
+go get github.com/gizak/termui/v3
+go get github.com/go-rod/rod
+go get github.com/gocolly/colly
+go get github.com/jmoiron/sqlx
+go get github.com/olekukonko/tablewriter
+go get github.com/playwright-community/playwright-go
+go get github.com/schollz/progressbar/v3
+go get github.com/sijms/go-ora/v2
+go get github.com/spf13/cobra
+go get github.com/spf13/viper
+go get github.com/stretchr/testify
+go get github.com/xuri/excelize/v2
+go get gopkg.in/gomail.v2
+go get modernc.org/sqlite
+```
+
+```shell
 go mod vendor
 ```
 
