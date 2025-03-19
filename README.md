@@ -16,7 +16,6 @@ go get github.com/go-rod/rod
 go get github.com/gocolly/colly
 go get github.com/jmoiron/sqlx
 go get github.com/olekukonko/tablewriter
-go get github.com/playwright-community/playwright-go
 go get github.com/schollz/progressbar/v3
 go get github.com/sijms/go-ora/v2
 go get github.com/spf13/cobra

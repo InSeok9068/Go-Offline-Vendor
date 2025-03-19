@@ -1,7 +1,7 @@
 package main
 
 import (
-	"offline_modules/cmd"
+	"fmt"
 
 	_ "github.com/AlecAivazis/survey/v2"
 	_ "github.com/atotto/clipboard"
@@ -31,7 +31,6 @@ import (
 	_ "github.com/gocolly/colly"
 	_ "github.com/jmoiron/sqlx"
 	_ "github.com/olekukonko/tablewriter"
-	_ "github.com/playwright-community/playwright-go"
 	_ "github.com/schollz/progressbar/v3"
 	_ "github.com/sijms/go-ora/v2"
 	_ "github.com/spf13/cobra"
@@ -46,5 +45,5 @@ import (
 )
 
 func main() {
-	cmd.Playground()
+	fmt.Print("안녕")
 }
