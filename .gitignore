@@ -3,4 +3,3 @@ bin
 vendor
 go_module_temp.zip
 *.exe
-.history
